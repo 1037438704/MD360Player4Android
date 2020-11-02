@@ -120,25 +120,3 @@ https://github.com/ashqal/MD360Player4Android/wiki/Advanced-Usage
 ## Q&A常见问题
 [Q&A常见问题](https://github.com/ashqal/MD360Player4Android/wiki/Q&A)
 
-## Feedback
-* Open a new issue.
-* or ashqalcn@gmail.com
-* or QQ Group(抱歉，群已满).<br/>
-![QQ Group](https://cloud.githubusercontent.com/assets/5126517/16213934/e398b010-3785-11e6-8877-5d88d9dc3f33.jpeg)
-
-## LICENSE
-```
-Copyright 2016 Asha
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
